@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, World! I'm <span style="color:#6c63ff;">Alex Shamalan R</span></h1>
-  <h3>🚀 Backend Developer | Problem Solver | Tech Enthusiast</h3>
+  <h3>🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
   <p>"Turning ideas into scalable and efficient solutions."</p>
   <p>📍 Location: Bengaluru, India</p>
 </div>
@@ -54,7 +54,7 @@
 
 ## 🌟 **What I Do**
 
-- **🔧 Backend Development**: Building scalable and efficient backend systems that deliver seamless user experiences.
+- **🔧 Full Stack Development**: Building scalable and efficient web applications that deliver seamless user experiences.
 - **📡 API Integrations**: Developing robust REST APIs that interact with third-party services and systems.
 - **📊 Data Management**: Aggregating and optimizing large datasets for faster access and insights.
 - **🔒 Security**: Implementing industry best practices for secure coding, data encryption, and authentication.
@@ -64,7 +64,7 @@
 ---
 
 ## 📂 **Highlights**
-- **⚡ Performance-Driven Solutions**: Optimized backend systems that scale effectively and improve response times.
+- **⚡ Performance-Driven Solutions**: Optimized web applications that scale effectively and improve response times.
 - **🚀 Tech Proficiency**: Deep understanding and hands-on experience with tools like **AWS SDK**, **ELK Stack**, **Redis**, and **PostgreSQL**.
 - **💻 Full Lifecycle Development**: From concept to deployment, delivering solutions that drive business growth and efficiency.
 - **🔄 Process Automation**: Automating data aggregation, API management, and cloud configurations to improve development cycles.
