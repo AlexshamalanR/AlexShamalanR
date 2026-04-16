@@ -78,13 +78,3 @@
 <div align="center">
   <h3>✨ Explore my repositories to see some of the exciting projects I've worked on! ✨</h3>
 </div>
-
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Breadcrumbs&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breadcrumbs&theme=radical&layout=compact&langs_count=6&hide=html,css,shell,batchfile" alt="Top Languages" />
-</div>
